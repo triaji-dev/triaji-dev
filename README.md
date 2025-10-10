@@ -88,16 +88,6 @@ I'm a <strong>Front-end Web Developer</strong> based in Tangerang Selatan with a
 
 ---
 
-### 🚀 My Featured Projects
-
-| Project                                       | Brief Description                                        | Technologies Used             |
-| -------------------------------------------- | -------------------------------------------------------- | ------------------------------------ |
-| **[Project Alpha](https://github.com/triaji-dev)** | A responsive e-commerce website built with React and modern CSS, featuring product catalog, shopping cart functionality, and user authentication. | `React`, `CSS`, `JavaScript`, `Git`     |
-| **[Project Beta](https://github.com/triaji-dev/profile-page)** | An interactive Profile Page website showcasing clean HTML5 structure, advanced CSS animations, and JavaScript interactivity. | `HTML5`, `CSS3`, `JavaScript`    |
-| **[Project Gamma](https://github.com/triaji-dev)** | A task management web application developed with React hooks and local storage integration. Features drag-and-drop functionality and real-time updates. | `React`, `JavaScript`, `Local Storage`               |
-
-<br>
-
 <div align="center">
   <strong>Thanks for visiting! Let's connect.</strong>
 </div>
