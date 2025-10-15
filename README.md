@@ -67,6 +67,7 @@ I'm an <strong>Architect</strong> and also a <strong>Front-end Web Developer</st
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=triaji-dev&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triaji-dev&layout=compact&theme=radical" alt="Top Languages" width="400" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=triaji-dev&theme=radical" alt="Streak Stats" width="400" />
