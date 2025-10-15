@@ -75,6 +75,16 @@ I'm an <strong>Architect</strong> and also a <strong>Front-end Web Developer</st
 
 ---
 
-<div align="center">
+### My Roadmap.sh Card
+
+<div align="left">
+  <a href="https://roadmap.sh/u/triajidev" target="_blank">
+    <img src="https://roadmap.sh/card/wide/68e49f2e1d72874d10c02387?variant=dark" alt="Roadmap.sh Card" width="400" />
+  </a>
+</div>
+
+---
+
+<div align="left">
   <strong>Thanks for visiting! Let's connect.</strong>
 </div>
