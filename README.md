@@ -25,7 +25,7 @@
 ### About Me
 
 <p align="left">
-I'm an <strong>Architect</strong> and also a <strong>Front-end Web Developer</strong> based in south of Jakarta with a passion for building beautiful and functional web applications. With over 2 years of experience after I switched career into the tech industry, I specialize in JavaScript frameworks like React, Next.js, and Node.js.
+I'm an <strong>Architect</strong> and also a <strong>Front-end Web Developer</strong> based in south of Jakarta with a passion for building beautiful and functional web applications. After over 14 years of experience in Architecture I switched career into the tech industry, I specialize in JavaScript frameworks like React, Next.js, and Node.js.
 <br><br>
 - 🔭 I'm currently working on <strong>various web development and open-source projects</strong>.
 <br>
@@ -75,7 +75,7 @@ I'm an <strong>Architect</strong> and also a <strong>Front-end Web Developer</st
 
 ---
 
-### My Roadmap.sh Card
+### My Roadmap Card
 
 <div align="left">
   <a href="https://roadmap.sh/u/triajidev" target="_blank">
