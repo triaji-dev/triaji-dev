@@ -8,9 +8,6 @@
   </h3>
   <a href="https://www.linkedin.com/in/tri-aji-prabandaru-76200742/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  <a href="https://roadmap.sh/u/triajidev" target="_blank">
-    <img src="https://img.shields.io/badge/Roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white" alt="Roadmap.sh"/>
-  </a>
   </a>
   <a href="https://medium.com/@notadevright" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
