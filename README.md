@@ -24,15 +24,15 @@
 <p align="left">
 I'm an <strong>Architect</strong> and also a <strong>Front-end Web Developer</strong> based in south of Jakarta with a passion for building beautiful and functional web applications. After over 14 years of experience in Architecture I switched career into the tech industry, I specialize in JavaScript frameworks like React, Next.js, and Node.js.
 <br><br>
-- 🔭 I'm currently working on <strong>various web development and open-source projects</strong>.
+- I'm currently working on <strong>various web development and open-source projects</strong>.
 <br>
-- 🌱 I'm currently learning <strong>advanced React patterns and modern web technologies</strong>.
+- I'm currently learning <strong>advanced React patterns and modern web technologies</strong>.
 <br>
-- 👯 I'm looking to collaborate on <strong>Open Source, Web Development, and Front-end Projects</strong>.
+- I'm looking to collaborate on <strong>Open Source, Web Development, and Front-end Projects</strong>.
 <br>
-- 📫 How to reach me: <strong>aji.prabandaru@gmail.com</strong>.
+- How to reach me: <strong>aji.prabandaru@gmail.com</strong>.
 <br>
-- ⚡ Fun fact: <strong>In my free time, I enjoy sketching and exploring new coffee shops</strong>.
+- Fun fact: <strong>In my free time, I enjoy sketching and exploring new coffee shops</strong>.
 </p>
 
 ---
@@ -75,4 +75,5 @@ I'm an <strong>Architect</strong> and also a <strong>Front-end Web Developer</st
 <div align="left">
   <strong>Thanks for visiting! Let's connect.</strong>
 </div>
+
 
