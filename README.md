@@ -10,6 +10,7 @@
     Tri Aji Prabandaru - ProfileHub
   </a>
   <br />
+  <br />
   <a href="https://www.linkedin.com/in/tri-aji-prabandaru-76200742/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -80,6 +81,7 @@ I'm an <strong>Architect</strong> and also a <strong>Front-end Web Developer</st
 <div align="left">
   <strong>Thanks for visiting! Let's connect.</strong>
 </div>
+
 
 
 
