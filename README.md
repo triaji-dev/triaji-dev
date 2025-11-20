@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/visit-portfolio-blue?style=for-the-badge" alt="LinkedIn"/>
   </a>
   <br />
-  <a href="https://www.linkedin.com/in/tri-aji-prabandaru-76200742/" target="_blank">
+  <a href="https://www.linkedin.com/in/tri-aji-prabandaru" target="_blank">
     <img src="https://img.shields.io/badge/visit-linkedin-blue?style=for-the-badge" alt="LinkedIn"/>
   </a>
   <br />
@@ -59,6 +59,7 @@
 <div align="left">
   <strong>Thanks for visiting! Let's connect.</strong>
 </div>
+
 
 
 
