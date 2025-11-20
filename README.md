@@ -15,6 +15,9 @@
   <a href="https://x.com/notadevright" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
+   <a href="https://x.com/notadevright](https://tri-aji-prabandaru.vercel.app/" target="_blank">
+    Profile Hub
+   </a>
 </div>
 
 ---
@@ -75,6 +78,7 @@ I'm an <strong>Architect</strong> and also a <strong>Front-end Web Developer</st
 <div align="left">
   <strong>Thanks for visiting! Let's connect.</strong>
 </div>
+
 
 
 
