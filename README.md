@@ -6,6 +6,10 @@
   <h3>  
     An Architect also a Frontend Web Developer. 
   </h3>
+  <a href="https://x.com/notadevright](https://tri-aji-prabandaru.vercel.app/" target="_blank">
+    Tri Aji Prabandaru - ProfileHub
+  </a>
+  <br />
   <a href="https://www.linkedin.com/in/tri-aji-prabandaru-76200742/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -15,9 +19,7 @@
   <a href="https://x.com/notadevright" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-   <a href="https://x.com/notadevright](https://tri-aji-prabandaru.vercel.app/" target="_blank">
-    Profile Hub
-   </a>
+
 </div>
 
 ---
@@ -78,6 +80,7 @@ I'm an <strong>Architect</strong> and also a <strong>Front-end Web Developer</st
 <div align="left">
   <strong>Thanks for visiting! Let's connect.</strong>
 </div>
+
 
 
 
